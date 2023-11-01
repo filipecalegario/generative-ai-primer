@@ -12,9 +12,9 @@ This repository serves as an introductory guide to the world of Generative AI. I
 
 2. **Training the AI**: With the data in hand, the next step is 'training'. During this phase, the AI processes the data multiple times to learn and internalize the patterns present. The outcome of this stage is a 'model', which acts like a digital representation of the knowledge derived from the data.
 
-3. **Fine-Tuning**: At times, there's a need for the AI to focus on specific nuances or characteristics. In such cases, an additional set of data is used to 'fine-tune' the already trained model, enhancing its capabilities in the desired direction.
+3. **Using the Model**: After training, the model is prepared to make inferences, which means using its acquired knowledge to process new data and come up with relevant outputs. This inference process can be executed locally on a machine or can be accessed remotely through an 'API'. The choice between local execution and API access often depends on factors like computational resources, application needs, and user preferences. Whether locally or via an API, the goal is to leverage the model's capabilities to derive meaningful results from new data inputs.
 
-4. **Using the Model**: After training, the model is prepared to make inferences, which means using its acquired knowledge to process new data and come up with relevant outputs. This inference process can be executed locally on a machine or can be accessed remotely through an 'API'. The choice between local execution and API access often depends on factors like computational resources, application needs, and user preferences. Whether locally or via an API, the goal is to leverage the model's capabilities to derive meaningful results from new data inputs.
+4. **Fine-Tuning**: At times, there's a need for the AI to focus on specific nuances or characteristics. In such cases, an additional set of data is used to 'fine-tune' the already trained model, enhancing its capabilities in the desired direction.
 
 5. **Generating New Data**: With the model set up, the AI can now produce or 'generate' new data. By giving the AI certain 'input parameters' or guidelines, it returns with 'generated output', which is the newly created content.
 
